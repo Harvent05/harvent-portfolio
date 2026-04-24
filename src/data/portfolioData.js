@@ -101,7 +101,7 @@ const portfolioData = {
     {
       institution: 'Linton University',
       program: 'Executive Master in Information Technology',
-      period: '2025',
+      period: 'Sep 2024',
     },
   ],
 
